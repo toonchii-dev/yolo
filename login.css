@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    border: 1px solid;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+.submit {
+    background-color: hsl(240, 39%, 45%);
+    color: hsl(0, 14%, 89%);
+    padding: 6px;
+    border-radius: 5px;
+}
+.button a{
+    color: white;
+    text-decoration: none;
+}
+.signup {
+    padding: 3px;
+}
